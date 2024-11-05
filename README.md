@@ -1,4 +1,4 @@
-![SpotifyRobloxLogo2](C:\Users\Benjamin\Downloads\SpotifyRobloxLogo2.png)
+![Logo](gh-assets/SpotifyRobloxLogo2.png)
 
 <h4 align="center">A Playlist Generator Customised For Your Robloxian</h4>
 
@@ -15,7 +15,7 @@
 </p>
 
 
-![image-20241105143725945](C:\Users\Benjamin\AppData\Roaming\Typora\typora-user-images\image-20241105143725945.png)
+![spotify_images](gh-assets/SpotifyScreenshot.png)
 
 ## Key Features
 
@@ -57,7 +57,7 @@ Before trying to run this application, please ensure you install all of the corr
    > **Note**
    > Do not share this Cookie with anyone, doing so can compromise your account
 
-![CookieLocation](C:\Users\Benjamin\Downloads\CookieLocation.png)
+![CookieLocation](gh-assets/CookieLocation.png)
 
 2. **Inputting a Roblox Username:**
 
