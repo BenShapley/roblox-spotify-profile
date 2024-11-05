@@ -1,16 +1,17 @@
 ![Logo](gh-assets/SpotifyRobloxLogo2.png)
 
-<h4 align="center">A Playlist Generator Customised For Your Robloxian</h4>
+<h4>A Playlist Generator Customised For Your Robloxian</h4>
 
-<h5 align="center">This is part of the full <a href="https://github.com/proud-p/spotify-roblox-project">Spotify to Roblox Studio</a> workflow.</h5>
+<h5>This is part of the full <a href="https://github.com/proud-p/spotify-roblox-project">Spotify to Roblox Studio</a> workflow.</h5>
 
 
 
-<p align="center">
+<p>
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#credits">Credits</a> 
 </p>
+
 
 
 
